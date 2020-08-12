@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e99b11d1-8481-42e5-b08e-2143ea0bebf5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="diancan@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="diancan@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="diancan@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="diancan: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="1a12d007-c715-4674-8b82-3261ce255456" />
+    </checked>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\编程小石头\Desktop\UI\settings_aliyun_xiaoshitou.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVD4QULM5fSVnEThq0aLxCUqnd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="redshift&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\编程小石头\Desktop\diancan20200206\src\main\resources\static\mp3" />
+      <recent name="C:\Users\编程小石头\Desktop\diancan20200206\wechatcode" />
+      <recent name="C:\Users\编程小石头\Desktop\diancan20200203\src\main\resources\static\img" />
+      <recent name="C:\Users\编程小石头\Desktop\diancan20200203" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qcl.controller" />
+      <recent name="com.qcl.api" />
+      <recent name="com.qcl.repository" />
+      <recent name="com.qcl.bean" />
+      <recent name="com.qcl.meiju" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\编程小石头\Desktop\diancan202000521\src\main\resources\templates\paihao" />
+      <recent name="C:\Users\编程小石头\Desktop\diancan20200216\src\main\java\com\qcl\utils" />
+      <recent name="C:\Users\编程小石头\Desktop\diancan20200212\src\main\resources\static\js" />
+      <recent name="C:\Users\编程小石头\Desktop\diancan20200212\src\main\resources\static\css" />
+      <recent name="C:\Users\编程小石头\Desktop\diancan20200206\src\main\resources\templates\home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DianCanApplication">
+    <configuration name="DianCanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diancan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qcl.DianCanApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Un" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diancan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qcl.DianCanApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DianCanApplication" />
+      <item itemvalue="Spring Boot.Un" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21007039" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="diancan@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e99b11d1-8481-42e5-b08e-2143ea0bebf5" name="Default Changelist" comment="" />
+      <created>1564188468701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564188468701</updated>
+      <workItem from="1564188470262" duration="1948000" />
+      <workItem from="1564194761460" duration="1156000" />
+      <workItem from="1564496043994" duration="295000" />
+      <workItem from="1564818795837" duration="132000" />
+      <workItem from="1564818969220" duration="309000" />
+      <workItem from="1564819348305" duration="2364000" />
+      <workItem from="1564883239847" duration="499000" />
+      <workItem from="1565578449570" duration="598000" />
+      <workItem from="1565827363315" duration="726000" />
+      <workItem from="1566377486730" duration="1606000" />
+      <workItem from="1566649054130" duration="387000" />
+      <workItem from="1566903171953" duration="676000" />
+      <workItem from="1567219520559" duration="1372000" />
+      <workItem from="1567222161672" duration="251000" />
+      <workItem from="1569246570641" duration="351000" />
+      <workItem from="1570414435568" duration="1704000" />
+      <workItem from="1571827498624" duration="499000" />
+      <workItem from="1571877486263" duration="1139000" />
+      <workItem from="1571881693302" duration="1251000" />
+      <workItem from="1571905732972" duration="178000" />
+      <workItem from="1571905951706" duration="6381000" />
+      <workItem from="1572093588277" duration="2698000" />
+      <workItem from="1572254909152" duration="6347000" />
+      <workItem from="1575432677866" duration="553000" />
+      <workItem from="1580699824517" duration="1059000" />
+      <workItem from="1580700902229" duration="138000" />
+      <workItem from="1580701212390" duration="11253000" />
+      <workItem from="1580735752669" duration="1283000" />
+      <workItem from="1580805421321" duration="95000" />
+      <workItem from="1580807719721" duration="680000" />
+      <workItem from="1580864367415" duration="846000" />
+      <workItem from="1580865232226" duration="5825000" />
+      <workItem from="1580872603011" duration="4733000" />
+      <workItem from="1580961163000" duration="4910000" />
+      <workItem from="1580988636958" duration="29573000" />
+      <workItem from="1581130855717" duration="6984000" />
+      <workItem from="1581218640235" duration="10963000" />
+      <workItem from="1581337164849" duration="15870000" />
+      <workItem from="1581424824378" duration="4809000" />
+      <workItem from="1581566508592" duration="5369000" />
+      <workItem from="1581573759934" duration="731000" />
+      <workItem from="1581686468227" duration="988000" />
+      <workItem from="1581750910560" duration="8806000" />
+      <workItem from="1581843878457" duration="24884000" />
+      <workItem from="1584588890183" duration="1891000" />
+      <workItem from="1584931715964" duration="603000" />
+      <workItem from="1585101894774" duration="3166000" />
+      <workItem from="1588388441712" duration="1229000" />
+      <workItem from="1590051590127" duration="13172000" />
+      <workItem from="1590826034638" duration="10228000" />
+      <workItem from="1594090506604" duration="265000" />
+      <workItem from="1597141055685" duration="86000" />
+      <workItem from="1597141195477" duration="7046000" />
+    </task>
+    <task id="LOCAL-00001" summary="创建默认管理员">
+      <created>1564194845455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564194845455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建默认管理员" />
+    <MESSAGE value="更新代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597144566969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1590827828548" />
+    <state x="451" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597144566969" />
+    <state x="558" y="322" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590108906450">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="558" y="322" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1590108906450" />
+    <state x="550" y="124" key="ExecutionTargetDialog" timestamp="1590826351747">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="550" y="124" key="ExecutionTargetDialog/0.0.1536.864@0.0.1536.864" timestamp="1590826351747" />
+    <state x="686" y="224" key="FileChooserDialogImpl" timestamp="1597141134729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1594090720296" />
+    <state x="686" y="224" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597141134729" />
+    <state width="1458" height="426" key="GridCell.Tab.0.bottom" timestamp="1597196107991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
+    <state width="1458" height="426" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597196107991" />
+    <state width="1458" height="426" key="GridCell.Tab.0.center" timestamp="1597196107991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
+    <state width="1458" height="426" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597196107991" />
+    <state width="1458" height="426" key="GridCell.Tab.0.left" timestamp="1597196107991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
+    <state width="1458" height="426" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597196107991" />
+    <state width="1458" height="426" key="GridCell.Tab.0.right" timestamp="1597196107991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
+    <state width="1458" height="426" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597196107991" />
+    <state width="1458" height="422" key="GridCell.Tab.1.bottom" timestamp="1597194124437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590851792489" />
+    <state width="1458" height="422" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
+    <state width="1458" height="422" key="GridCell.Tab.1.center" timestamp="1597194124437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
+    <state width="1458" height="422" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
+    <state width="1458" height="422" key="GridCell.Tab.1.left" timestamp="1597194124437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
+    <state width="1458" height="422" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
+    <state width="1458" height="422" key="GridCell.Tab.1.right" timestamp="1597194124437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1590851792489" />
+    <state width="1458" height="422" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
+    <state width="1458" height="422" key="GridCell.Tab.2.bottom" timestamp="1597194124437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="422" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
+    <state width="1458" height="422" key="GridCell.Tab.2.center" timestamp="1597194124437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="422" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
+    <state width="1458" height="422" key="GridCell.Tab.2.left" timestamp="1597194124437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="422" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
+    <state width="1458" height="422" key="GridCell.Tab.2.right" timestamp="1597194124437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="422" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
+    <state x="270" y="13" key="SettingsEditor" timestamp="1594090772265">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1594090772265" />
+    <state x="653" y="308" width="333" height="248" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1590114119860">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="653" y="308" width="333" height="248" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.864@0.0.1536.864" timestamp="1590114119860" />
+    <state x="475" y="166" width="786" height="608" key="find.popup" timestamp="1597196022518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="475" y="166" width="786" height="608" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597196022518" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1590109406395">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1590109406395" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/qcl/controller/AdminLeiMuController.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
