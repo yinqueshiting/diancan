@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e99b11d1-8481-42e5-b08e-2143ea0bebf5" name="Default Changelist" comment="" />
+    <list default="true" id="e99b11d1-8481-42e5-b08e-2143ea0bebf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb427fd9-0812-4966-ae3b-0dbc4786ab59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb427fd9-0812-4966-ae3b-0dbc4786ab59/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb427fd9-0812-4966-ae3b-0dbc4786ab59/storage_v2/_src_/schema/sell.Us81AA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb427fd9-0812-4966-ae3b-0dbc4786ab59/storage_v2/_src_/schema/starmall.ZpN5Tg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb427fd9-0812-4966-ae3b-0dbc4786ab59/storage_v2/_src_/schema/xiaoshitou.xZfMaA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb427fd9-0812-4966-ae3b-0dbc4786ab59/storage_v2/_src_/schema/xiaoyuan.qF_WDw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/1号桌.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/2号桌.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/3号桌.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/functions/getOpenid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/functions/getOpenid/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/Smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/ask_no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/ask_yes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/canyin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/hi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/home_no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/home_yes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/homeno.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/homeyes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/kf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/lianxi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/mall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/me_no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/me_yes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/meno.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/meok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/news.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/noP.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/scan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/shopCart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/shopart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/sopCart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/sousuo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/weixin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/xiangji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/image/微信图片_20200318193059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/buy/buy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/buy/buy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/buy/buy.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/buy/buy.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/change/change.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/change/change.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/change/change.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/change/change.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/confirmOrder/confirmOrder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/confirmOrder/confirmOrder.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/confirmOrder/confirmOrder.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/confirmOrder/confirmOrder.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/me/me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/me/me.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/me/me.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/me/me.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/myOrder/myOrder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/myOrder/myOrder.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/myOrder/myOrder.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/myOrder/myOrder.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/mycomment/mycomment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/mycomment/mycomment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/mycomment/mycomment.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/mycomment/mycomment.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/paihao/paihao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/paihao/paihao.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/paihao/paihao.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/pages/paihao/paihao.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/utils/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/wxss/common.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechatcode/xiaochengxu20200707/wxss/weui.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/菜品商品.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/菜品类目.xlsx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +146,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="userSettingsFile" value="C:\Users\编程小石头\Desktop\UI\settings_aliyun_xiaoshitou.xml" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1UVD4QULM5fSVnEThq0aLxCUqnd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -245,7 +328,8 @@
       <workItem from="1590826034638" duration="10228000" />
       <workItem from="1594090506604" duration="265000" />
       <workItem from="1597141055685" duration="86000" />
-      <workItem from="1597141195477" duration="7046000" />
+      <workItem from="1597141195477" duration="15852000" />
+      <workItem from="1597280624260" duration="3045000" />
     </task>
     <task id="LOCAL-00001" summary="创建默认管理员">
       <created>1564194845455</created>
@@ -284,88 +368,82 @@
     </state>
     <state x="549" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1594090720296" />
     <state x="686" y="224" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597141134729" />
-    <state width="1458" height="426" key="GridCell.Tab.0.bottom" timestamp="1597196107991">
+    <state width="1876" height="285" key="GridCell.Tab.0.bottom" timestamp="1597227512878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="333" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
-    <state width="1458" height="426" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597196107991" />
-    <state width="1458" height="426" key="GridCell.Tab.0.center" timestamp="1597196107991">
+    <state width="1876" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512878" />
+    <state width="1876" height="285" key="GridCell.Tab.0.center" timestamp="1597227512878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="333" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
-    <state width="1458" height="426" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597196107991" />
-    <state width="1458" height="426" key="GridCell.Tab.0.left" timestamp="1597196107991">
+    <state width="1876" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512878" />
+    <state width="1876" height="285" key="GridCell.Tab.0.left" timestamp="1597227512878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="333" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
-    <state width="1458" height="426" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597196107991" />
-    <state width="1458" height="426" key="GridCell.Tab.0.right" timestamp="1597196107991">
+    <state width="1876" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512878" />
+    <state width="1876" height="285" key="GridCell.Tab.0.right" timestamp="1597227512878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="333" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
-    <state width="1458" height="426" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597196107991" />
-    <state width="1458" height="422" key="GridCell.Tab.1.bottom" timestamp="1597194124437">
+    <state width="1876" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512878" />
+    <state width="1458" height="199" key="GridCell.Tab.1.bottom" timestamp="1597227512868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="333" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590851792489" />
-    <state width="1458" height="422" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
-    <state width="1458" height="422" key="GridCell.Tab.1.center" timestamp="1597194124437">
+    <state width="1458" height="199" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512868" />
+    <state width="1458" height="199" key="GridCell.Tab.1.center" timestamp="1597227512868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="333" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
-    <state width="1458" height="422" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
-    <state width="1458" height="422" key="GridCell.Tab.1.left" timestamp="1597194124437">
+    <state width="1458" height="199" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512868" />
+    <state width="1458" height="199" key="GridCell.Tab.1.left" timestamp="1597227512868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="333" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1590851792488" />
-    <state width="1458" height="422" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
-    <state width="1458" height="422" key="GridCell.Tab.1.right" timestamp="1597194124437">
+    <state width="1458" height="199" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512868" />
+    <state width="1458" height="199" key="GridCell.Tab.1.right" timestamp="1597227512868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="333" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1590851792489" />
-    <state width="1458" height="422" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
-    <state width="1458" height="422" key="GridCell.Tab.2.bottom" timestamp="1597194124437">
+    <state width="1458" height="199" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512868" />
+    <state width="1458" height="199" key="GridCell.Tab.2.bottom" timestamp="1597227512868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1458" height="422" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
-    <state width="1458" height="422" key="GridCell.Tab.2.center" timestamp="1597194124437">
+    <state width="1458" height="199" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512868" />
+    <state width="1458" height="199" key="GridCell.Tab.2.center" timestamp="1597227512868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1458" height="422" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
-    <state width="1458" height="422" key="GridCell.Tab.2.left" timestamp="1597194124437">
+    <state width="1458" height="199" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512868" />
+    <state width="1458" height="199" key="GridCell.Tab.2.left" timestamp="1597227512868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1458" height="422" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
-    <state width="1458" height="422" key="GridCell.Tab.2.right" timestamp="1597194124437">
+    <state width="1458" height="199" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512868" />
+    <state width="1458" height="199" key="GridCell.Tab.2.right" timestamp="1597227512868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1458" height="422" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597194124437" />
-    <state x="270" y="13" key="SettingsEditor" timestamp="1594090772265">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1458" height="199" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597227512868" />
+    <state x="338" y="16" key="SettingsEditor" timestamp="1597204140398">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="270" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1594090772265" />
+    <state x="338" y="16" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597204140398" />
     <state x="653" y="308" width="333" height="248" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1590114119860">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="653" y="308" width="333" height="248" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.864@0.0.1536.864" timestamp="1590114119860" />
-    <state x="475" y="166" width="786" height="608" key="find.popup" timestamp="1597196022518">
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1597280811582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="475" y="166" width="786" height="608" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597196022518" />
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597280811582" />
+    <state x="475" y="166" width="786" height="608" key="find.popup" timestamp="1597203992509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="475" y="166" width="786" height="608" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597203992509" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1590109406395">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1590109406395" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/qcl/controller/AdminLeiMuController.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
